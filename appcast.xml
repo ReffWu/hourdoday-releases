@@ -12,12 +12,12 @@
                     <li>版本 0.1.2 更新</li>
                 </ul>
             ]]></description>
-            <pubDate>Mon, 09 Feb 2026 22:30:16 -0500</pubDate>
+            <pubDate>Mon, 09 Feb 2026 22:35:45 -0500</pubDate>
             <enclosure 
                 url="https://github.com/ReffWu/hourdoday-releases/releases/download/v0.1.2/HourDoDay-v0.1.2.dmg"
-                sparkle:version="9" 
+                sparkle:version="12" 
                 sparkle:shortVersionString="0.1.2"
-                sparkle:edSignature="BQt34WQD1RmZboxDWkUWGyrzqCxwrOkbh3nJNypwVUAIrn6Sha9ugXaEiR5Xic0AYbFoppUB3NYcE/+Il38iAw==" length="2974083"
+                sparkle:edSignature="ogAr+6KNVX87NzmMQ4xCPQiyZGKPWyXFnvMkAe/eAJm36GFQJSFJbtKCTIBpBoOroGarNvpN7NdNmYMdQNDsCg==" length="2980112"
                 type="application/octet-stream"/>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
         </item>
