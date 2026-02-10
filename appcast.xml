@@ -5,19 +5,19 @@
         <language>zh-CN</language>
         
         <item>
-            <title>版本 0.1.5</title>
+            <title>版本 0.1.6</title>
             <description><![CDATA[
                 <h3>更新内容</h3>
                 <ul>
-                    <li>版本 0.1.5 更新</li>
+                    <li>版本 0.1.6 更新</li>
                 </ul>
             ]]></description>
-            <pubDate>Mon, 09 Feb 2026 22:51:48 -0500</pubDate>
+            <pubDate>Mon, 09 Feb 2026 23:12:49 -0500</pubDate>
             <enclosure 
-                url="https://github.com/ReffWu/hourdoday-releases/releases/download/v0.1.5/HourDoDay-v0.1.5.dmg"
-                sparkle:version="15" 
-                sparkle:shortVersionString="0.1.5"
-                sparkle:edSignature="yYqn8NjhLsdym7hvfLOBXwHtpPMiPyXEHzhd+5pOU9TPxFwfIPWoQSTJKe9ArLFkAqGoeLuyDdANaxYcnuNKCg==" length="2980151"
+                url="https://github.com/ReffWu/hourdoday-releases/releases/download/v0.1.6/HourDoDay-v0.1.6.dmg"
+                sparkle:version="16" 
+                sparkle:shortVersionString="0.1.6"
+                sparkle:edSignature="sm9BUrQbByUNbqywQF0jXtRdx0AvNpHLawdVAG6uEnaAymL5hMqQfYPPIe5nAAdD/Az7EeyuJjr6w4kru1VfDA==" length="2979981"
                 type="application/octet-stream"/>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
         </item>
